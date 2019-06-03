@@ -1,0 +1,28 @@
+*{
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  box-sizing: border-box;
+}
+
+ /* #draggable {
+   width: 150px;
+   height: 150px;
+   padding: 0.5em;
+ } */
+
+ #draggable {
+   width: 100px;
+   height: 100px;
+   padding: 0.5em;
+   float: left;
+   margin: 10px 10px 10px 0;
+ }
+
+  #droppable {
+    width: 150px;
+    height: 150px;
+    padding: 0.5em;
+    float: left;
+    margin: 10px;
+  }
